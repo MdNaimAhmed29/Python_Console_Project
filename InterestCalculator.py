@@ -9,4 +9,4 @@ time = float(time)
 
 interest = (principal_amount * rate * time)/100 #interest calculation formula I = P × R × T, where P = Principal, R = Rate of Interest, and T = Time
 
-print("The interest is: ", interest)
+print("The interest is: ",interest)
